@@ -14,8 +14,8 @@
         <script src="tictactoe.js"></script>
     </body>
 </html>
-# tictactoe.js
 
+# tictactoe.js
 const PLAYER_X = "X";
 const PLAYER_O = "O";
 const board = document.getElementById("board");
